@@ -58,6 +58,15 @@ a .rental:hover, a .rental:focus  {
 	color: #b34998;
 	background-color: rgba(25,25,25,0.7);
 }
+.footer .container{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.copyright{
+	margin: 0;
+}
 
 .footer {
     position: absolute;
