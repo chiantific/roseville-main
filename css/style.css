@@ -16,7 +16,7 @@ a, a:hover, a:focus {
 }
 .atmosphere{
 	margin: -2em 0 0 0em;
-	color: rgba(21,89,95,0.85);
+	color: rgba(21,89,95,1);
 	font-family: 'Stardos Stencil', cursive;
 	text-transform: uppercase;
 	font-size: 4em;
